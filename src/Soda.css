@@ -1,0 +1,27 @@
+.Soda-div {
+    height: 60.0rem;
+    width: 100%;
+    background-image: url("./static/soda_bubbles_1335x950.jpg");
+}
+
+.Soda-nav a {
+    margin-top: 3.5rem;
+    padding: 0.5em 0;
+    width: 5.0rem;
+    color: rgb(232, 109, 71);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 2.0rem;
+    padding: 0.5rem 1.5rem 0.5rem 1.5rem;
+    border-radius: 0.5rem;
+}
+  
+.Soda-nav a:hover {
+    background-color: rgb(232, 109, 71);
+    color: #CCC;
+}
+
+.Soda-img {
+    margin-top: 5.0rem;
+    width: 50rem;
+}

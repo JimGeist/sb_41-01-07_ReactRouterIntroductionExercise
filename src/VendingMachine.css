@@ -1,0 +1,29 @@
+.VendingMachine-div {
+    float: left;
+}
+
+.VendingMachine-Image {
+    width: 30.0rem;
+}
+
+.VendingMachine-nav a {
+    margin-top: 2.5rem;
+    padding: 0.5em 0;
+    display: block;
+    color: #202020;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.25rem;
+    padding: 0.5rem 1.5rem 0.5rem 1.5rem;
+    border-radius: 0.5rem;
+}
+  
+.VendingMachine-nav a:hover {
+    background-color: #AAA;
+    color: #008000
+}
+  
+.VendingMachine-nav a.active {
+    font-weight: bold;
+    color: black;
+}
